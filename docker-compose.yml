@@ -1,0 +1,9 @@
+name: tibero-ops
+
+services:
+  tibero:
+    image: gtibero7
+    container_name: gtibero7
+    ports:
+      - "8629:8629"
+    hostname: tibero7

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<tmax_license>
+	<license version="1.1">
+		<product version="7.2.3">Tibero</product>
+		<serial_ID>1751512888</serial_ID>
+		<issue_date>2025/07/03</issue_date>
+		<start_date>2025/07/03</start_date>
+		<end_date>2025/08/01</end_date>
+		<licensee>Demo_Trial_tibero7</licensee>
+		<edition>trial</edition>
+		<type>demo</type>
+		<duration>30</duration>
+		<limit_user>20</limit_user>
+		<identified_by_host>tibero7</identified_by_host>
+		<signature>EuEn4Gk7nryE+cKedUWVz5WxtkY1wberH59lXEmh2ZU=</signature>
+	</license>
+</tmax_license>
